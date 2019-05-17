@@ -2,3 +2,4 @@ node_modules
 vendor
 .DS_Store
 css
+package-lock.json
