@@ -3,3 +3,4 @@ vendor
 .DS_Store
 css
 package-lock.json
+public
