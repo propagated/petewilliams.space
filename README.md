@@ -1,7 +1,7 @@
 # [petewilliams.space](http://petewilliams.space)
-A Bootstrap website built using npm + gulp to get by.
+A simple Bootstrap website built using npm + gulp to get by.
 
-Forked from [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/) by David Miller under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+Based on [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/) by David Miller under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
 
 ### Build
 
@@ -12,4 +12,4 @@ Forked from [Start Bootstrap - Resume](https://startbootstrap.com/template-overv
 Currently hosted at [Surge.sh](https://surge.sh). 
 
 
-Copyright 2020 Pete Williams. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+Copyright 2020 Pete Williams. Code released under the [MIT](https://opensource.org/licenses/MIT) license.
