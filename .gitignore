@@ -4,3 +4,4 @@ vendor
 css
 package-lock.json
 public
+.netlify
