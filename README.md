@@ -15,5 +15,5 @@ Based on [Start Bootstrap - Resume](https://startbootstrap.com/template-overview
 
 Currently manually deployed to [netlify](https://netlify.com) via the `netlify deploy` CLI. 
 
-
-Copyright 2020 Pete Williams. Code released under the [MIT](https://opensource.org/licenses/MIT) license.
+### Release
+Copyright 2020 Pete Williams. Released under the [MIT](https://opensource.org/licenses/MIT) license.
