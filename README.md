@@ -11,7 +11,8 @@ Based on [Start Bootstrap - Resume](https://startbootstrap.com/template-overview
 `/public` contains the deployed site. Currently the build process does not deploy to this folder `//TODO`
 
 ### Hosting
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ceb8718d-b523-4521-a00c-b670bfc6c16f/deploy-status)](https://app.netlify.com/sites/petewilliamsdotspace/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ceb8718d-b523-4521-a00c-b670bfc6c16f/deploy-status)](https://app.netlify.com/sites/petewilliamsdotspace/deploys)  
+
 Currently manually deployed to [netlify](https://netlify.com) via the `netlify deploy` CLI. 
 
 
